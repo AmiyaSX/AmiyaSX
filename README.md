@@ -3,7 +3,6 @@ Hi, I'm a junior student majoring in Computer Science and Technology in Huazhong
 I’m currently learning HCI and digging deeper into Data Analysis Fields.
 
 **My interest fields include:**
-
 - Machine Learning, Reinforcement learning
 - Android/iOS Development
 - HCI (Human-Computer Interaction)
