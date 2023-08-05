@@ -8,7 +8,7 @@ I’m currently learning HCI and digging deeper into Data Analysis Fields.
 - HCI (Human-Computer Interaction)
 - Data Analysis
 
-**Personal interests:**  Pop Music, Photography, Coffee, Sight Seeing and Cat
+**Personal hobbies:**  Pop Music, Photography, Coffee, Sight Seeing and Cat
 
 Welcome to reach me if you have any interesting idea or just want to make a friend.
 [More About Me: Personal CV](https://amiyasx.notion.site/amiyasx/Xi-Sun-Amiya-c031b4ba05fd49b4ab5a34361a664892)
