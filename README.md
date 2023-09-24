@@ -1,6 +1,6 @@
 Hi, I'm a junior student majoring in Computer Science and Technology in Huazhong University of Science and Technology, also a first-year MSc student in KTH Royal Institute of Technology studying Interactive Media and Technology.
 
-I’m currently learning HCI and digging deeper into Data Analysis Fields.
+I’m currently learning HCI.
 
 **My interest fields include:**
 - Machine Learning, Reinforcement learning
