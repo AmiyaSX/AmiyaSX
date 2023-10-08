@@ -1,12 +1,9 @@
 Hi, I'm a junior student majoring in Computer Science and Technology in Huazhong University of Science and Technology, also a first-year MSc student in KTH Royal Institute of Technology studying Interactive Media and Technology.
 
-I’m currently learning HCI.
-
 **My interest fields include:**
-- Machine Learning, Reinforcement learning
+- Machine Learning
 - Android/iOS Development
-- HCI (Human-Computer Interaction)
-- Data Analysis
+- HCI
 
 Welcome to reach me if you have any interesting idea.
 [More About Me: Personal CV](https://amiyasx.notion.site/amiyasx/Xi-Sun-Amiya-c031b4ba05fd49b4ab5a34361a664892)
