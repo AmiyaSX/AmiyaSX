@@ -1,11 +1,11 @@
-Hi, I'm a junior student majoring in Computer Science and Technology in Huazhong University of Science and Technology, also a first-year MSc student in KTH Royal Institute of Technology studying Interactive Media and Technology.
+Bachelor: Computer Science@HUST
+Master: Media Technology@KTH
 
 **My interest fields include:**
 - Machine Learning
-- Android/iOS Development
+- Web/Mobile Development
 - HCI
 
-Welcome to reach me if you have any interesting idea.
 [More About Me: Personal CV](https://amiyasx.notion.site/amiyasx/Xi-Sun-Amiya-c031b4ba05fd49b4ab5a34361a664892)
 <!--
 **AmiyaSX/AmiyaSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
