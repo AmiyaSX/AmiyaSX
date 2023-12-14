@@ -1,11 +1,13 @@
-Bachelor: Computer Science@HUST
 
-Master: Media Technology@KTH
+MSc: Media Technology@KTH   
+BSc: Computer Science@HUST
 
 **My interest fields include:**
 - Machine Learning
 - Web/Mobile Development
 - HCI
+
+Languages: Java, SQL, Python, JavaScript, HTML, C/C++, Swift, Kotlin
 
 [More About Me: Personal CV](https://amiyasx.notion.site/amiyasx/Xi-Sun-Amiya-c031b4ba05fd49b4ab5a34361a664892)
 <!--
