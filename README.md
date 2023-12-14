@@ -4,7 +4,7 @@ BSc: Computer Science@HUST
 
 **My interest fields include:**
 - Machine Learning
-- Web/Mobile Development
+- Front-End and Back-End Development
 - HCI
 
 Languages: Java, SQL, Python, JavaScript, HTML, C/C++, Swift, Kotlin
