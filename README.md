@@ -7,7 +7,7 @@ BSc: Computer Science@HUST
 - Front-End and Back-End Development
 - HCI
 
-Languages: Java, SQL, Python, JavaScript, HTML, C/C++, Swift, Kotlin
+Languages: Python, JS/TS, HTML, C/C++, Java/Kotlin, Swift, SQL
 
 [More About Me: Personal CV](https://amiyasx.notion.site/amiyasx/Xi-Sun-Amiya-c031b4ba05fd49b4ab5a34361a664892)
 <!--
