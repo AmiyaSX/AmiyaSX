@@ -2,7 +2,7 @@
 MSc: Media Technology@KTH   
 BSc: Computer Science@HUST
 
-- 🔭 I’m currently working on CI Simulation project [@KTHFSDV](https://github.com/KTHFSDV)
+- 🔭 I’m currently working on a CI Simulation project@KTHFSDV and intern as a fullstack engineer
 - 🌱 I’m currently learning Docker, ROS and CI/CD
 - ⚡ My interest fields: Mobile/Web development, HCI, Software
 - 👩‍💻 Programming Languages: Python, JS/TS, HTML, C/C++, Java/Kotlin, Swift, SQL
