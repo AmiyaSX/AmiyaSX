@@ -2,7 +2,7 @@
 MSc: Media Technology@KTH   
 BSc: Computer Science@HUST
 
-- 🌱 I’m currently learning Web developemnt, Generative AI
+- 🌱 I’m currently learning Web developemnt, Big Data
 - ⚡ My interest fields: Mobile/Web development, HCI, Software
 - 👩‍💻 Programming Languages: JS/TS, HTML, C/C++, Java/Kotlin, Swift, Python, SQL
 - 📫 How to reach me: sunxi.amiya@gmail.com
