@@ -1,5 +1,5 @@
 
-MSc: Media Technology@KTH   
+MSc: Interactive Media Technology@KTH   
 BSc: Computer Science@HUST
 
 - 🌱 I’m currently learning Web developemnt, Big data
